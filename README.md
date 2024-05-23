@@ -1,2 +1,2 @@
-###ASP.NET Core Identity Role Based Authorization
-#Role-based Authorization in ASP.NET Core Identity allows us to control access to different parts of our application based on the roles assigned to a user. It is useful for restricting access to certain functionalities only to users who have been granted specific roles. The following are the key concepts to implement Role-Based Authorization in ASP.NET Core Application
+## ASP.NET Core 6 Identity Role-Based Authorization
+Role-based Authorization in ASP.NET Core Identity allows us to control access to different parts of our application based on the roles assigned to a user. It is useful for restricting access to certain functionalities only to users who have been granted specific roles. The following are the key concepts to implement Role-Based Authorization in ASP.NET Core Application
