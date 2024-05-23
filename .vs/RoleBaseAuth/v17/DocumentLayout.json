@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Apps\\RoleBaseAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\views\\userauthentication\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\views\\userauthentication\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\repositories\\implementation\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\repositories\\implementation\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\repositories\\services\\iuserauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\repositories\\services\\iuserauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\views\\userauthentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\views\\userauthentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\controllers\\dashbordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\controllers\\dashbordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\views\\dashbord\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\views\\dashbord\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|x:\\apps\\rolebaseauth\\rolebaseauth\\models\\domain\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BE33B6-8503-44D8-8E02-CA6AFFCD2B6C}|RoleBaseAuth\\RoleBaseAuth.csproj|solutionrelative:rolebaseauth\\models\\domain\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashbordController.cs",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Controllers\\DashbordController.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Controllers\\DashbordController.cs",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Controllers\\DashbordController.cs",
+              "RelativeToolTip": "RoleBaseAuth\\Controllers\\DashbordController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:12:32.178Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Views\\UserAuthentication\\Registration.cshtml",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Views\\UserAuthentication\\Registration.cshtml",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Views\\UserAuthentication\\Registration.cshtml",
+              "RelativeToolTip": "RoleBaseAuth\\Views\\UserAuthentication\\Registration.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T12:56:49.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Views\\UserAuthentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Views\\UserAuthentication\\Login.cshtml",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Views\\UserAuthentication\\Login.cshtml",
+              "RelativeToolTip": "RoleBaseAuth\\Views\\UserAuthentication\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T12:28:38.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "RoleBaseAuth\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T07:16:24.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Views\\Dashbord\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Views\\Dashbord\\Index.cshtml",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Views\\Dashbord\\Index.cshtml",
+              "RelativeToolTip": "RoleBaseAuth\\Views\\Dashbord\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T07:14:43.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAuthenticationController.cs",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Controllers\\UserAuthenticationController.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Controllers\\UserAuthenticationController.cs",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Controllers\\UserAuthenticationController.cs",
+              "RelativeToolTip": "RoleBaseAuth\\Controllers\\UserAuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:12:17.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAuthenticationService.cs",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Repositories\\Implementation\\UserAuthenticationService.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Repositories\\Implementation\\UserAuthenticationService.cs",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Repositories\\Implementation\\UserAuthenticationService.cs",
+              "RelativeToolTip": "RoleBaseAuth\\Repositories\\Implementation\\UserAuthenticationService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:31:50.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserAuthenticationService.cs",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Repositories\\Services\\IUserAuthenticationService.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Repositories\\Services\\IUserAuthenticationService.cs",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Repositories\\Services\\IUserAuthenticationService.cs",
+              "RelativeToolTip": "RoleBaseAuth\\Repositories\\Services\\IUserAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:31:10.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\appsettings.json",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\appsettings.json",
+              "RelativeToolTip": "RoleBaseAuth\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T05:59:21.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Program.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Program.cs",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Program.cs",
+              "RelativeToolTip": "RoleBaseAuth\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:57:20.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Models\\Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Models\\Domain\\ApplicationUser.cs",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Models\\Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "RoleBaseAuth\\Models\\Domain\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:11:33.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Models\\Domain\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuth\\Models\\Domain\\DatabaseContext.cs",
+              "ToolTip": "X:\\Apps\\RoleBaseAuth\\RoleBaseAuth\\Models\\Domain\\DatabaseContext.cs",
+              "RelativeToolTip": "RoleBaseAuth\\Models\\Domain\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:11:12.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
